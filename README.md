@@ -216,8 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 ### Project Maintainers
-- **Abdul Rafay**: [Your Email]
-- **Laksh Mandhan**: [Your Email]
+- **Abdul Rafay**: abdulrafay88243@gmail.com
+- **Laksh Mandhan**: mandhanlaksh40@gmail.com
 
 ### Project Links
 - **Repository**: [GitHub](https://github.com/mrsiuuuu-x1/survivetrack-apocalypse)
